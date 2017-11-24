@@ -1,0 +1,35 @@
+<component name="ArtifactManager">
+  <artifact build-on-make="true" name="CrawlerPage:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CrawlerPage_jar1</output-path>
+    <root id="root">
+      <element id="archive" name="CrawlerPage.jar">
+        <element id="module-output" name="CrawlerPage" />
+      </element>
+      <element id="file-copy" path="$PROJECT_DIR$/../../../PACKAGE/jars/log4j-1.2.17.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../../PACKAGE/jars/crawler4j-4.3.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../../PACKAGE/jars/htmlparser-2.1.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../../PACKAGE/jars/jsoup-1.11.1.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../../PACKAGE/jars/quartz-jobs-2.2.1.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../../PACKAGE/jars/quartz-2.2.1.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../../PACKAGE/jars/commons-logging-1.2.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../../PACKAGE/jars/guava-r05.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../../PACKAGE/jars/slf4j-api-1.7.25.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../../PACKAGE/jars/itext-2.1.7.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../../PACKAGE/jars/je-5.0.84.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../../PACKAGE/jars/slf4j-log4j12-1.7.25.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../../PACKAGE/jars/httpclient-4.5.3.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../../PACKAGE/jars/httpcore-4.4.4.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../../PACKAGE/jars/leveldbjni-all-1.8.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../../PACKAGE/jars/io-8.3.1.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../../PACKAGE/jars/servlet-api-2.5.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../../PACKAGE/jars/commons-io-2.6.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../../PACKAGE/jars/log4j-core-2.9.1.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../../PACKAGE/jars/tagsoup-1.2.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../../PACKAGE/jars/tika-parsers-1.16.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../../PACKAGE/jars/tika-core-1.16.jar" />
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/src/main/resources/META-INF/MANIFEST.MF" />
+      </element>
+    </root>
+  </artifact>
+</component>
